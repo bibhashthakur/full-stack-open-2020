@@ -1,4 +1,4 @@
-# full-stack-open-2020
+# full-stack-open-2021
 
 This repo is to submit exercises and track progress on the Full Stack Open course on modern web-development.
 
